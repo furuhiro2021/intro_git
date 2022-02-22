@@ -2,4 +2,5 @@ Gitの練習をしています。
 基本的なワークフローを学びます。2回目
  +git add 	2回目
  +git coomit	2回目
-複数ファイルの更新
+ +git rm
+ +git status

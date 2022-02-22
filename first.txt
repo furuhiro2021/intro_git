@@ -4,3 +4,4 @@ Gitの練習をしています。
  +git coomit	2回目
  +git rm
  +git status
+ +git diff
